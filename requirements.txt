@@ -3,3 +3,5 @@ pandas
 sklearn
 seaborn
 matplotlib
+plotly
+streamlit
